@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+build/
+*.app
+*.xcodeproj
+*.plist
+bin/

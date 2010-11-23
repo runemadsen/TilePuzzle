@@ -1,0 +1,9 @@
+TODO:
+
+DONE * Different color on touches.
+DONE * gravity when hasPlaying
+DONE * Show / hide touches on multitouch
+INSTEAD: SHOW ONLY 1 * Delete touches that was paired
+MJAAAA * Make Particles look good
+Nik * Save gui in XML
+Nik * Fix calibration
